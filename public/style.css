@@ -511,7 +511,7 @@ section:target {
     background-size: 100px 100px;
     background-repeat: no-repeat;
     background-position: center;
-    
+    transition: 1s ease-in-out;
 
 }
 .projects>div:hover {
@@ -519,7 +519,7 @@ section:target {
     
     background-image: url(../images/project.jpg);
     background-size: 300px 290px;
-    transition: 1s;
+    
  }
 .description {
     font-size: 25px;
